@@ -1,3 +1,5 @@
+#  test-tasks for JetThoughts company. 
+
 1. I have made chat bot on steam platform via node js and cleverbot api. Its works perfectly. People thought they chat with real person.
 
 2. PHP 7 в подлиннике (Дмитрий Котеров). Very good book about basics of php and back end programming.
